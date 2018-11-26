@@ -1,0 +1,30 @@
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  border: 2px black solid;
+  margin-left: 42.5%;
+  margin-bottom: 1%;
+}
+
+.signin-display {
+  text-align: center;
+}
+
+.signout-button {
+    margin-left: 46.5%;
+    margin-top: 1%;
+    color: rgb(206, 24, 0);
+    border: 2px solid rgb(206, 24, 0);
+    padding: 2px 3px 2px 3px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: transparent;
+    cursor: pointer;
+    width: 80px;
+    height: 30px;
+}
+
+.signout-button:hover {
+  background-color: rgba(206, 24, 0, 0.473);
+}
